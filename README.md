@@ -110,7 +110,7 @@ The tool is **device-aware**: it reads your CPU, GPU, RAM, disk, monitor refresh
 
 ### Verification
 
-The SHA-256 hash and the [VirusTotal report](https://www.virustotal.com/gui/file/56afe7708330be6fb9cd2e2d718318380516f59ebc8ae341fa24c621679fc3bf) are listed in the Turkish section above. Verify your download with `Get-FileHash`.
+The SHA-256 hash and the [VirusTotal report](https://www.virustotal.com/gui/file/56afe7708330be6fb9cd2e2d718318380516f59ebc8ae341fa24c621679fc3bf?nocache=1) are listed in the Turkish section above. Verify your download with `Get-FileHash`.
 
 ---
 
