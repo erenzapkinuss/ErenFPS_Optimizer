@@ -28,7 +28,7 @@ Araç **bilgisayarınıza özeldir**: işlemci, ekran kartı, RAM, disk, monitö
 
 ### Kullanım
 
-1. [Releases](https://github.com/erenzapkinuss/erenfps/releases) bölümünden ya da bu depodan `ErenFPS_Optimizer.bat` dosyasını indirin.
+1. [Releases](https://github.com/erenzapkinuss/ErenFPS_Optimizer/releases/tag/v1.1) bölümünden ya da bu depodan `ErenFPS_Optimizer.bat` dosyasını indirin.
 2. Çift tıklayın. Yönetici izni isteyecek, **Evet** deyin.
 3. Dili seçin ve menüden ilerleyin. Önce **1**'i çalıştırmanızı öneririz, bu hiçbir şey değiştirmez.
 
