@@ -94,7 +94,7 @@ The tool is **device-aware**: it reads your CPU, GPU, RAM, disk, monitor refresh
 
 ### Usage
 
-1. Download `ErenFPS_Optimizer.bat` from this repository or the [Releases](https://github.com/erenzapkinuss/erenfps/releases) page.
+1. Download `ErenFPS_Optimizer.bat` from this repository or the [Releases](https://github.com/erenzapkinuss/ErenFPS_Optimizer/releases/tag/v1.1) page.
 2. Double-click it and accept the administrator prompt.
 3. Pick a language and use the menu. Start with **1**, it changes nothing.
 
